@@ -1,49 +1,70 @@
-# Tulisin — GitHub Pages MVP
+# TulisKetik — Website GitHub Pages
 
-Static SEO-friendly marketplace catalog for jasa tulis manual, jasa ketik, and transcription.
+Domain: `tulisketik.id`
 
-## Deploy to GitHub Pages
-1. Create a new GitHub repository.
-2. Upload all files in this folder to the repository root.
-3. Open Settings → Pages.
-4. Source: Deploy from a branch.
-5. Branch: main / root.
-6. Save.
+Penyedia:
+- Nama: Nofendi Ardyanto
+- Lokasi: Sleman, Yogyakarta
+- WhatsApp: +62 857-1205-5807
 
-## IMPORTANT before going live
-Replace every occurrence of:
+## Struktur SEO
 
-`https://arifulamar.github.io/tulisin/`
+- `/`
+- `/jasa-tulis-tangan/`
+- `/jasa-ketik/`
+- `/pdf-ke-word/`
+- `/foto-ke-word/`
+- `/transkripsi/`
+- `/penyedia/`
+- `/kebijakan/`
+- `/jasa/jasa-tulis-tangan-rapi/`
+- `/jasa/jasa-ketik-word/`
+- `/jasa/jasa-pdf-ke-word/`
+- `/jasa/jasa-foto-ke-word/`
+- `/jasa/jasa-transkripsi-audio/`
 
-with your real GitHub Pages URL or custom domain.
+## Siap untuk GitHub Pages
 
-Also replace the demo WhatsApp number:
-`6281234567890`
+1. Buat repository baru, misalnya `tulisketik`.
+2. Upload seluruh isi folder ini ke root repository.
+3. Buka GitHub → Settings → Pages.
+4. Pilih **Deploy from a branch**.
+5. Pilih branch `main` dan folder `/ (root)`.
+6. Pastikan custom domain diisi `tulisketik.id`.
+7. Arahkan DNS domain ke GitHub Pages sesuai petunjuk GitHub.
 
-### Main places to edit
-- `assets/data.js` → creator/service data + WhatsApp number
-- `penyedia.html` → admin WhatsApp
-- `robots.txt`
-- `sitemap.xml`
-- canonical URLs in each HTML page
+File `CNAME` sudah berisi:
+`tulisketik.id`
 
-## Add a new creator/service
-1. Add an object in `assets/data.js`.
-2. Copy one file inside `/jasa/` as a template.
-3. Update title, description, canonical URL, WhatsApp link, provider info.
-4. Add the new URL to `sitemap.xml`.
+## SEO yang sudah tersedia
 
-## SEO already included
-- Unique title & meta description
-- Canonical tags
-- Open Graph basics
-- Schema.org WebSite / CollectionPage / Service
+- Title unik per halaman
+- Meta description unik
+- Canonical URL absolut
+- Open Graph image untuk WhatsApp/Facebook
+- Twitter Card
+- Schema.org `WebSite`, `Person`, `CollectionPage`, `Service`
+- Internal linking antar landing page
 - Sitemap XML
 - robots.txt
-- Semantic HTML
-- Static crawlable category/detail pages
-- Mobile responsive layout
-- Internal links
+- 404 noindex
+- Konten utama langsung di HTML
+- Responsive mobile
+- URL bersih berbasis folder
 
-## UGC limitation on GitHub Pages
-GitHub Pages is static, so users cannot publish listings directly by themselves without a backend. For MVP, collect provider submissions via WhatsApp/Google Form and manually add approved listings. Later, migrate data/auth to Supabase or another backend while keeping the same frontend.
+## File branding
+
+- `assets/logo.png`
+- `assets/og-image.png`
+
+## Nomor WhatsApp
+
+Nomor yang digunakan di seluruh website:
+`6285712055807`
+
+Tampilan:
+`+62 857-1205-5807`
+
+## Catatan
+
+Harga yang ada adalah contoh "mulai dari". Silakan ubah sesuai harga sebenarnya sebelum website dipublikasikan.
