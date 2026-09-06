@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://arifulamar.github.io/tulisin/sitemap.xml
+Sitemap: https://tulisketik.id/sitemap.xml

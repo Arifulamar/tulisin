@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://arifulamar.github.io/tulisin/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://arifulamar.github.io/tulisin/jasa-tulis-tangan.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://arifulamar.github.io/tulisin/jasa-ketik.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://arifulamar.github.io/tulisin/penyedia.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://arifulamar.github.io/tulisin/kebijakan.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://arifulamar.github.io/tulisin/jasa/tulis-tangan-rina.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://arifulamar.github.io/tulisin/jasa/ketik-word-andri.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://arifulamar.github.io/tulisin/jasa/transkripsi-sari.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tulisketik.id/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tulisketik.id/jasa-tulis-tangan/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tulisketik.id/jasa-ketik/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tulisketik.id/pdf-ke-word/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tulisketik.id/foto-ke-word/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tulisketik.id/transkripsi/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tulisketik.id/penyedia/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tulisketik.id/jasa/tulis-tangan-rina/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tulisketik.id/jasa/ketik-word-andri/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tulisketik.id/jasa/transkripsi-sari/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>
