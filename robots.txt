@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tulisketik.id/sitemap.xml
+Sitemap: https://tulisketik.biz.id/sitemap.xml
