@@ -1,0 +1,9 @@
+{
+  "name": "Tulisin",
+  "short_name": "Tulisin",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f8fb",
+  "theme_color": "#1f6feb",
+  "lang": "id-ID"
+}
